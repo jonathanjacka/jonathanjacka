@@ -1,4 +1,4 @@
-### Hi there 👋
+![cover3](https://github.com/jonathanjacka/jonathanjacka/assets/40699806/4b92230d-e68b-42c0-bf03-fd60a147569e)
 
 <!--
 **jonathanjacka/jonathanjacka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
